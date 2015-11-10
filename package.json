@@ -1,0 +1,16 @@
+{
+  "name": "weather-on-terminal",
+  "version": "1.0.0",
+  "description": "A cli tool for weather forecast",
+  "bin": {
+    "climet": "execute-module.js"
+  },
+  "main": "index.js",
+  "preferGlobal": "true",
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "cli-table": "^0.3.1"
+  }
+}
