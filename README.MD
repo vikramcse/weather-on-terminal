@@ -4,7 +4,9 @@
 **Install** 
 
 ```
-npm install climet -g
+clone repo
+cd repo
+npm install . -g
 ```
 ============
   
